@@ -1,0 +1,11 @@
+[gd_scene load_steps=3 format=3 uid="uid://cb1igwvxnfs48"]
+
+[ext_resource type="Script" path="res://assets/src/focus_point.gd" id="1_nvuul"]
+[ext_resource type="Texture2D" uid="uid://bkx82jj1hk1cr" path="res://assets/sprites/focus_point.png" id="2_t3rpt"]
+
+[node name="focus_point" type="Node2D"]
+script = ExtResource("1_nvuul")
+
+[node name="sp" type="Sprite2D" parent="."]
+z_index = 2
+texture = ExtResource("2_t3rpt")
