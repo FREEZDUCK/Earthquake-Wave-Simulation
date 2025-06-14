@@ -1,6 +1,8 @@
 # 🌍 P-S-Wave-Propagation | P파와 S파 전파 시뮬레이션
 
-![godot-logo](https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg)  
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg" alt="Godot Logo" width="100" />
+</p>
 *Godot Engine 기반의 지진파 시뮬레이션 프로젝트*
 
 ---
@@ -49,7 +51,6 @@
 | Game Engine | [Godot Engine 4.x](https://godotengine.org/) |
 | Language    | GDScript         |
 | Simulation Model | PREM (Density, Elastic Moduli) |
-| Version Control | Git, GitHub     |
 
 ---
 
@@ -58,8 +59,3 @@
 - 🧭 **파형의 굴절 시뮬레이션** 구현 (스넬의 법칙 기반)
 - 📍 **PS 도달 시점 시각화** 및 로그 기록 기능
 - 🌐 **다층매질 통과 및 속력 변화 정밀 모델링**
-
----
-
-## 📁 파일 구조 | File Structure
-
